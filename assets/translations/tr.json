@@ -1,0 +1,76 @@
+{
+  "university_name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+  "attendance_system": "YOKLAMA SİSTEMİ",
+  "sign_in_title": "Giriş Yapın",
+  "tc_no": "TC Kimlik Numarası",
+  "one_time_password": "Tek Şifre",
+  "remember_me": "Beni Hatırla",
+  "sign_in_button": "Giriş Yap",
+  "language_tr": "Türkçe",
+  "language_en": "English",
+
+  "home": "Ana Sayfa",
+  "reports_and_lists": "Raporlar ve Listeler",
+  "settings": "Ayarlar",
+  "sign_out": "Çıkış Yap",
+  "week": "Hafta",
+  "close": "Kapat",
+
+  "welcome": "Hoş Geldiniz",
+  "select_lesson_hint": "Yoklama başlatılacak saatleri program üzerinden seçiniz.",
+
+  "lesson_reports": "Ders Raporları",
+  "lesson_reports_hint": "Dönemlik katılım durumunu inceleyin ve PDF yoklama raporu oluşturun.",
+  "lessons": "DERSLER",
+  "lesson_code": "KOD",
+  "lesson_name": "DERS ADI",
+  "download_pdf": "Dönemlik Raporu İndir (PDF)",
+  "student_no": "NO",
+  "name_surname": "AD SOYAD",
+  "attendance": "KATILIM",
+  "total_lessons": "G.DERS",
+  "missed_lessons": "K.DERS",
+  "absent_lessons": "E.DERS",
+  "attendance_rate": "ORAN (%)",
+
+  "pdf_report_title": "DERS YOKLAMA RAPORU",
+  "pdf_university": "Üniversite: Necmettin Erbakan Üniversitesi",
+  "pdf_course_code": "Ders Kodu",
+  "pdf_course_name": "Ders Adı",
+  "pdf_program": "Program",
+  "pdf_semester": "Dönem",
+  "pdf_instructor": "Öğretim Elemanı",
+
+  "monday": "PAZARTESİ",
+  "tuesday": "SALI",
+  "wednesday": "ÇARŞAMBA",
+  "thursday": "PERŞEMBE",
+  "friday": "CUMA",
+  "saturday": "CUMARTESİ",
+  "sunday": "PAZAR",
+
+  "clear_selection": "Seçilenleri\nTemizle",
+  "add_student": "Öğrenci\nEkle",
+  "take_attendance": "Yoklama\nAl",
+
+  "student_number": "Öğrenci Numarası",
+  "add": "Ekle",
+  "add_student_title": "Öğrenci Ekle",
+
+  "warning_select_lessons": "Lütfen önce ders saatleri seçin!",
+  "warning_no_lesson_in_cell": "Seçtiğiniz hücrede tanımlı bir ders yok!",
+  "warning_same_lesson": "Sadece aynı derse ait saatleri seçebilirsiniz!",
+  "warning_same_day": "Seçilen tüm saatler aynı gün içinde olmalıdır!",
+  "warning_consecutive": "Ders saatleri birbirini takip etmelidir (arka arkaya)!",
+  "warning_max_hours": "Tek seferde en fazla 3 saat seçebilirsiniz.",
+  "warning_error": "Bir hata oluştu: Bilgiler eksik veya hatalı.",
+  "warning_db_error": "Veritabanına kaydedilirken bir hata oluştu.",
+  "success_student_added": "Öğrenci yoklamaya başarı ile eklendi!",
+
+  "qr_code_label": "Kod",
+
+
+  "warning_no_lesson_in_cell_detail": "Seçtiğiniz hücrede ({saat}. saat, {gun}. gün) tanımlı bir ders yok!",
+
+  "language_selection": "Dil Seçimi"
+}

@@ -1,0 +1,75 @@
+{
+  "university_name": "جامعة نجم الدين أربكان",
+  "attendance_system": "نظام الحضور",
+  "sign_in_title": "تسجيل الدخول",
+  "tc_no": "رقم الهوية الوطنية",
+  "one_time_password": "كلمة المرور",
+  "remember_me": "تذكرني",
+  "sign_in_button": "دخول",
+  "language_tr": "Türkçe",
+  "language_en": "English",
+
+  "home": "الرئيسية",
+  "reports_and_lists": "التقارير والقوائم",
+  "settings": "الإعدادات",
+  "sign_out": "خروج",
+  "week": "الأسبوع",
+  "close": "إغلاق",
+
+  "welcome": "مرحباً",
+  "select_lesson_hint": "اختر الساعات التي تريد بدء الحضور منها من الجدول.",
+
+  "lesson_reports": "تقارير الدروس",
+  "lesson_reports_hint": "راجع حضور الفصل الدراسي وأنشئ تقرير حضور PDF.",
+  "lessons": "الدروس",
+  "lesson_code": "الرمز",
+  "lesson_name": "اسم الدرس",
+  "download_pdf": "تحميل تقرير الفصل (PDF)",
+  "student_no": "الرقم",
+  "name_surname": "الاسم الكامل",
+  "attendance": "الحضور",
+  "total_lessons": "إجمالي",
+  "missed_lessons": "الغياب",
+  "absent_lessons": "المتبقي",
+  "attendance_rate": "النسبة (%)",
+
+  "pdf_report_title": "تقرير حضور الدرس",
+  "pdf_university": "الجامعة: جامعة نجم الدين أربكان",
+  "pdf_course_code": "رمز المادة",
+  "pdf_course_name": "اسم المادة",
+  "pdf_program": "البرنامج",
+  "pdf_semester": "الفصل الدراسي",
+  "pdf_instructor": "المدرس",
+
+  "monday": "الاثنين",
+  "tuesday": "الثلاثاء",
+  "wednesday": "الأربعاء",
+  "thursday": "الخميس",
+  "friday": "الجمعة",
+  "saturday": "السبت",
+  "sunday": "الأحد",
+
+  "clear_selection": "مسح\nالاختيار",
+  "add_student": "إضافة\nطالب",
+  "take_attendance": "أخذ\nالحضور",
+
+  "student_number": "رقم الطالب",
+  "add": "إضافة",
+  "add_student_title": "إضافة طالب",
+
+  "warning_select_lessons": "الرجاء تحديد ساعات الدرس أولاً!",
+  "warning_no_lesson_in_cell": "لا يوجد درس محدد في الخلية المختارة!",
+  "warning_same_lesson": "يمكنك فقط تحديد ساعات تنتمي لنفس الدرس!",
+  "warning_same_day": "يجب أن تكون جميع الساعات المحددة في نفس اليوم!",
+  "warning_consecutive": "يجب أن تكون ساعات الدرس متتالية!",
+  "warning_max_hours": "يمكنك تحديد 3 ساعات كحد أقصى في المرة الواحدة.",
+  "warning_error": "حدث خطأ: المعلومات مفقودة أو غير صحيحة.",
+  "warning_db_error": "حدث خطأ أثناء الحفظ في قاعدة البيانات.",
+  "success_student_added": "تمت إضافة الطالب إلى الحضور بنجاح!",
+
+  "qr_code_label": "الرمز",
+
+  "warning_no_lesson_in_cell_detail": "لا يوجد درس محدد في الخلية المختارة (الساعة: {saat}، اليوم: {gun})!",
+
+  "language_selection": "اختيار اللغة"
+}

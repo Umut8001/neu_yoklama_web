@@ -1,0 +1,76 @@
+{
+  "university_name": "NECMETTİN ERBAKAN UNIVERSITY",
+  "attendance_system": "ATTENDANCE SYSTEM",
+  "sign_in_title": "Sign In",
+  "tc_no": "National ID Number",
+  "one_time_password": "Password",
+  "remember_me": "Remember Me",
+  "sign_in_button": "Sign In",
+  "language_tr": "Türkçe",
+  "language_en": "English",
+
+  "home": "Home",
+  "reports_and_lists": "Reports and Lists",
+  "settings": "Settings",
+  "sign_out": "Sign Out",
+  "week": "Week",
+  "close": "Close",
+
+  "welcome": "Welcome",
+  "select_lesson_hint": "Select the hours to start attendance from the schedule.",
+
+  "lesson_reports": "Lesson Reports",
+  "lesson_reports_hint": "Review semester attendance and generate a PDF attendance report.",
+  "lessons": "LESSONS",
+  "lesson_code": "CODE",
+  "lesson_name": "LESSON NAME",
+  "download_pdf": "Download Semester Report (PDF)",
+  "student_no": "NO",
+  "name_surname": "FULL NAME",
+  "attendance": "ATTENDANCE",
+  "total_lessons": "T.LESS",
+  "missed_lessons": "M.LESS",
+  "absent_lessons": "A.LESS",
+  "attendance_rate": "RATE (%)",
+
+  "pdf_report_title": "LESSON ATTENDANCE REPORT",
+  "pdf_university": "University: Necmettin Erbakan University",
+  "pdf_course_code": "Course Code",
+  "pdf_course_name": "Course Name",
+  "pdf_program": "Program",
+  "pdf_semester": "Semester",
+  "pdf_instructor": "Instructor",
+
+  "monday": "MONDAY",
+  "tuesday": "TUESDAY",
+  "wednesday": "WEDNESDAY",
+  "thursday": "THURSDAY",
+  "friday": "FRIDAY",
+  "saturday": "SATURDAY",
+  "sunday": "SUNDAY",
+
+  "clear_selection": "Clear\nSelection",
+  "add_student": "Add\nStudent",
+  "take_attendance": "Take\nAttendance",
+
+  "student_number": "Student Number",
+  "add": "Add",
+  "add_student_title": "Add Student",
+
+  "warning_select_lessons": "Please select lesson hours first!",
+  "warning_no_lesson_in_cell": "There is no lesson defined in the selected cell!",
+  "warning_same_lesson": "You can only select hours belonging to the same lesson!",
+  "warning_same_day": "All selected hours must be on the same day!",
+  "warning_consecutive": "Lesson hours must be consecutive!",
+  "warning_max_hours": "You can select at most 3 hours at once.",
+  "warning_error": "An error occurred: Information is missing or incorrect.",
+  "warning_db_error": "An error occurred while saving to the database.",
+  "success_student_added": "Student successfully added to attendance!",
+
+  "qr_code_label": "Code",
+
+
+  "warning_no_lesson_in_cell_detail": "There is no lesson defined in the selected cell (hour: {saat}, day: {gun})!",
+
+  "language_selection": "Language Selection"
+}
