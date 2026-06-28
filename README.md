@@ -1,16 +1,23 @@
-# qr_yoklama_web
+# 🖥️ NEÜ Yoklama Sistemi — Web Paneli
 
-A new Flutter project.
+QR kod ve GPS doğrulama tabanlı üniversite yoklama sisteminin öğretmen web paneli.
 
-## Getting Started
+## 🚀 Özellikler
+- 📋 Ders ve öğrenci yönetimi
+- 🔑 Dinamik QR kod oluşturma (5 dakikada geçersiz olur)
+- 📊 Yoklama istatistikleri ve raporlama
+- 👥 Öğrenci devam durumu takibi
+- 🔐 Firebase kimlik doğrulama
 
-This project is a starting point for a Flutter application.
+## 🛠️ Kullanılan Teknolojiler
+- **Flutter Web** — Web arayüzü
+- **Firebase** — Veritabanı ve kimlik doğrulama
+- **Dart** — Programlama dili
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Kurulum
+```bash
+git clone https://github.com/Umut8001/neu_yoklama_web.git
+cd neu_yoklama_web
+flutter pub get
+flutter run -d chrome
+```
