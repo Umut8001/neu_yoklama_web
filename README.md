@@ -4,7 +4,6 @@ QR kod ve GPS doğrulama tabanlı üniversite yoklama sisteminin öğretmen web 
 
 ## 🚀 Özellikler
 - 📋 Ders ve öğrenci yönetimi
-- 🔑 Dinamik QR kod oluşturma (5 dakikada geçersiz olur)
 - 📊 Yoklama istatistikleri ve raporlama
 - 👥 Öğrenci devam durumu takibi
 - 🔐 Firebase kimlik doğrulama
