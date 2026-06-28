@@ -20,3 +20,5 @@ cd neu_yoklama_web
 flutter pub get
 flutter run -d chrome
 ```
+## 📄 Proje Raporu
+Detaylı dokümantasyon için [proje raporuna](23100011059_UmutSadikoglu.pdf) bakabilirsiniz.
